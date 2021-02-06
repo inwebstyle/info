@@ -14,3 +14,6 @@ http://udacity.github.io/git-styleguide/
 Chatbot personification
 -styles
 -language tutoring
+
+# Very Useful Stuff
+https://iis.cgi.com/RapidWeb/en/support/consumer-reports.aspx
