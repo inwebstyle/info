@@ -15,6 +15,9 @@ Chatbot personification
 -styles
 -language tutoring
 
+# Patreon
+https://blog.patreon.com/6-membership-based-business-models-you-can-use-on-patreon-today
+
 # Very Useful Stuff
 https://iis.cgi.com/RapidWeb/en/support/consumer-reports.aspx
 
