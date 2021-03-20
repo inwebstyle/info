@@ -23,3 +23,6 @@ https://iis.cgi.com/RapidWeb/en/support/consumer-reports.aspx
 
 The Alexander Technique
 https://alexandertechnique.com/
+
+Music Theory
+https://www.musictheory.net/exercises/note
